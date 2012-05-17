@@ -1,0 +1,23 @@
+Format: 1.8
+Date: Thu, 16 Feb 2012 11:56:24 +0530
+Source: mytest
+Binary: mytest
+Architecture: armel
+Version: 0.0.1
+Distribution: unstable
+Urgency: low
+Maintainer: unknown <>
+Changed-By: unknown <>
+Description: 
+ mytest     - <insert up to 60 chars description>
+Changes: 
+ mytest (0.0.1) unstable; urgency=low
+ .
+   * Initial Release.
+Checksums-Sha1: 
+ b565deaa8fedc6e2cbd0c63e62400cab45cb377c 18450 mytest_0.0.1_armel.deb
+Checksums-Sha256: 
+ ac74439bc1f762cd1c824c87a4c6a4c42796741dc7d0c181f1bc0fa511a96951 18450 mytest_0.0.1_armel.deb
+Files: 
+ 13bf2beb1c252b201676baf9283e03de 18450 user/other optional mytest_0.0.1_armel.deb
+Maemo-Display-Name: mytest
